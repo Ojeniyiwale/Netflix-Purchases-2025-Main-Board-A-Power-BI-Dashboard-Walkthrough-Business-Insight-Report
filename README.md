@@ -1,0 +1,2 @@
+# Netflix-Purchases-2025-Main-Board-A-Power-BI-Dashboard-Walkthrough-Business-Insight-Report
+In today’s data-driven economy, businesses rely on visual analytics to uncover insights and drive smarter decisions. This Power BI dashboard project — Netflix Purchases 2025 Main Board — provides a comprehensive view of purchase patterns, sales performance, and regional dynamics related to Netflix-themed product sales.
